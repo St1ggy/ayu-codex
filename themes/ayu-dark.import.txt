@@ -1,0 +1,1 @@
+codex-theme-v1:{"codeThemeId":"codex","theme":{"accent":"#FFB454","contrast":68,"fonts":{"code":"IoskeleyMono Nerd Font Propo","ui":"IoskeleyMono Nerd Font Propo"},"ink":"#B3B1AD","opaqueWindows":true,"semanticColors":{"diffAdded":"#1F3028","diffRemoved":"#3D1F24","skill":"#59C2FF"},"surface":"#0A0E14"},"variant":"dark"}
