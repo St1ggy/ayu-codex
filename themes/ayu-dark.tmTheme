@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>name</key><string>Ayu Dark</string><key>settings</key><array>
+<dict><key>settings</key><dict><key>foreground</key><string>#B3B1AD</string><key>background</key><string>#0A0E14</string><key>caret</key><string>#FFB454</string><key>selection</key><string>#1F3C52</string></dict></dict>
+<dict><key>scope</key><string>comment</string><key>settings</key><dict><key>foreground</key><string>#626A73</string></dict></dict>
+<dict><key>scope</key><string>string</string><key>settings</key><dict><key>foreground</key><string>#C2D94C</string></dict></dict>
+<dict><key>scope</key><string>keyword, storage</string><key>settings</key><dict><key>foreground</key><string>#FFB454</string></dict></dict>
+<dict><key>scope</key><string>constant.numeric, constant.language</string><key>settings</key><dict><key>foreground</key><string>#D2A6FF</string></dict></dict>
+<dict><key>scope</key><string>entity.name.function, support.function</string><key>settings</key><dict><key>foreground</key><string>#59C2FF</string></dict></dict>
+<dict><key>scope</key><string>entity.name.type, support.type</string><key>settings</key><dict><key>foreground</key><string>#95E6CB</string></dict></dict>
+</array></dict></plist>
